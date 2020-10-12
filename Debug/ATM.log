@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\andre\source\repos\ATM\ATM\Bill.h(14): warning C4091: 'static ': ignored on left of 'Bill::bill' when no variable is declared
+C:\Users\andre\source\repos\ATM\ATM\Tranzactie.h(44,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ATM.vcxproj -> C:\Users\andre\source\repos\ATM\Debug\ATM.exe
